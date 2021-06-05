@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name":"MD.Ashadujjaman",
+    "occupation":"full stack react js developer",
+    "description":"",
+    "image":"profilepic.JPG",
+    "bio":"I am MD.Ashadujjaman a Web Developer.I completed my B.Sc from National University.I'm an expert in Full Stack Web Development, Web Designing using React js.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "ashad2058@gmail.com",
+    "phone": "01829120608",
+    "address":{
+      "street":"New Palton Line Azimpur Dhaka",
+      "zip": "1205"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/mdasaduzzaman.emon.3/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/md-ashadujjaman-4250ba201/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/emon2058",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"National University",
+        "degree":"Bachelor Science",
+        "graduated":"studies"
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScripts",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"PHP",
+        "level":"50%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"MYSql",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"In Kuwait",
+        "category":"Backend of in-kuwait news",
+        "image":"InKuwait.PNG",
+        "url":"https://news-a84d2.web.app/"
+      },
+      {
+        "title":"Admission Consultant",
+        "category":"(offline now) Backend of admission consultant ",
+        "image":"AdmissionConsultant.PNG",
+        "url":"https://github.com/emon2058/Admission-Consultant"
+      },
+      {
+        "title":"Weather App",
+        "category":"(offline now) Realtime city search",
+        "image":"Weather.PNG",
+        "url":"https://github.com/emon2058/Weather-App"
+      },
+      {
+        "title":"Calculator",
+        "category":"(offline)Basic Calculatro",
+        "image":"Calculator.PNG",
+        "url":"http:/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
